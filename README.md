@@ -4,7 +4,7 @@
 
 Playbook web de libre consulta de [Vástago Design Studio](https://www.estudiovastago.com). Es una guía práctica para tomar decisiones tipográficas con criterio en proyectos de identidad visual, antes de dibujar un solo símbolo.
 
-🔗 **Ver en línea:** `https://<tu-usuario>.github.io/<nombre-del-repo>/`
+🔗 **Ver en línea:** `https://andresvastago.github.io/<nombre-del-repo>/`
 
 ---
 
